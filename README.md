@@ -12,6 +12,8 @@ We aim to implement perceptron for spam classification as spam filtering incorpo
 
 We also compare the performance of our model with other models used in the project from which the dataset has been used. 
 
-**Please find the IPython notebook in this repository. It is recommended to open it in Collab to experience dynamic visualization.**
+**Please find the IPython notebook in this repository.** 
+
+**It is recommended to open it in Collab to experience dynamic visualization.**
 
 
