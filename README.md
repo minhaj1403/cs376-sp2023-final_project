@@ -4,7 +4,7 @@ This is the final project submitted for the course mentioned above.
 
 ## Implementing Perceptron for Spam Classification
 
-Deep Learning is arguably one of the most popular aspects of machine learning anyways, but it is important to understand the very foundation of artificial neural network, which is the Perceptron.
+Deep Learning is arguably one of the most popular aspects of machine learning nowadays, but it is important to understand the very foundation of artificial neural network, which is the Perceptron.
 
 In traditional machine learning, the Perceptron is a linear machine learning algorithm for binary classification tasks.
 
